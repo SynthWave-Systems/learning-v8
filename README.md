@@ -93,7 +93,7 @@ the properties and functions configured on the ObjectTemplate.
 
 This would be something like:
 ```js
-const obj = {};
+const obj = {}; // Javascript
 ```
 This class is declared in include/v8.h and extends Template:
 ```c++
